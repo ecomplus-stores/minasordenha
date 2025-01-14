@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.6e5d17740f81033270efc4421042185e.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.fa6a08a2748db0d7f074209188a05d41.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.35c507b2e3e57efca2fcd2ab5e1cbb17.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.222c3e4bdc0b2c01dd389aae6e3da041.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.fd46e6310f6ef5a049ce658f0e301869.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Minas Ordenha",
+  "short_name": "minasordenha",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "minasordenha",
+  "background_color": "#ffffff",
+  "theme_color": "#1f4481"
+}
